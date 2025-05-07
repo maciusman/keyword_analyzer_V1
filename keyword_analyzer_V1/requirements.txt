@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+google-generativeai
+jinaai
+sentence-transformers
+umap-learn
+hdbscan
+tqdm
+python-dotenv
+openpyxl
+requests # <<<< DODANA BIBLIOTEKA >>>> 
