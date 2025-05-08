@@ -12,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("keyword_analyzer_V1.log"),
+        logging.FileHandler("keyword_analyzer.log"),
         logging.StreamHandler()
     ]
 )
