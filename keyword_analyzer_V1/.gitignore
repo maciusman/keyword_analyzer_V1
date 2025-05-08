@@ -1,2 +1,20 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-*
+# Środowisko wirtualne
+keyword_analyzer_env/
+venv/
+env/
+.env/
+
+# Cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Inne pliki tymczasowe
+*.log
+.idea/
+.vscode/
